@@ -1,5 +1,5 @@
 countdownManager = {
-    targetTime: new Date('2020-12-25 00:00:00'),
+    targetTime: new Date('2021-12-25 00:00:00'),
     displayElement: { 
         day:  null,
         hour: null,
